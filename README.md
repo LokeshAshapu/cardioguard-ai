@@ -1,8 +1,7 @@
 # CardioGuard AI 🫀🤖
 ### Early Warning System for Cardiovascular & Diabetic Emergencies
 
-**Team:** [VitalSense AI Labs]  
-**Hackathon 2024 Submission**
+**Team:** VitalSense AI Labs
 
 ![Architecture](https://img.shields.io/badge/Architecture-MERN%20Stack-blue)
 ![AI](https://img.shields.io/badge/AI-Gemini%20%2B%20Llama-purple)
