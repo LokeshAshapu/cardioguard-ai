@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased text-slate-900 bg-slate-50 dark:text-white dark:bg-bgDark;
+  }
+}
+
+.glass-panel {
+  @apply bg-white/10 backdrop-blur-md border border-white/20 shadow-xl rounded-2xl;
+}
+
+.neumorphic {
+  @apply bg-slate-100 shadow-[-5px_-5px_10px_rgba(255,255,255,0.8),5px_5px_10px_rgba(0,0,0,0.1)];
+}
+
+.neumorphic-dark {
+  @apply bg-bgDark shadow-[-5px_-5px_10px_rgba(255,255,255,0.05),5px_5px_10px_rgba(0,0,0,0.3)];
+}
